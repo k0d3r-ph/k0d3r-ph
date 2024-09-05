@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=blue&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+Meu+nome+é+Pedro+Henrique!;Tenho+20+anos.;Sou+um+estudante+de+Engenharia+de+Software!;Bem-vindo(a)+!;)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=blue&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Pedro+Henrique!;Tenho+20+anos.;Sou+um+estudante+de+Engenharia+de+Software!;Bem-vindo(a)+!;)
 
   ##
 <div align='center'>
