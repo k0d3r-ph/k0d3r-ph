@@ -13,7 +13,7 @@
   <img align="center" alt="Pedro-VS" height="40" width="40" src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif">
 </div>
 
-##
+## Reach me 📱
 <div align='center'>
   <a href="https://www.linkedin.com/in/pedro-henrique-oliveira-fonseca/" target='_blank'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' target="_blank"></a>
   <a href="mailto:pedrohenriqueoliveira29@hotmail.com" target='_blank'><img src='https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF' target="_blank"</a>
